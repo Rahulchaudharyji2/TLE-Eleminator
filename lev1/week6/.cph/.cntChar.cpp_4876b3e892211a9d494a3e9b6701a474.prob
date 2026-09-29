@@ -1,0 +1,1 @@
+{"name":"Local: cntChar","url":"/Users/rahulchaudhary/Competative-Programming/tle/lev1/week6/cntChar.cpp","tests":[{"id":1790685730111,"input":"ICPCAssuit\n","output":"A 1\nC 2\nI 1\nP 1\ni 1\ns 2\nt 1\nu 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rahulchaudhary/Competative-Programming/tle/lev1/week6/cntChar.cpp","group":"local","local":true}
